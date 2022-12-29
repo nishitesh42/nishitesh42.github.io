@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, 0.105)), url("../../images/bac.png");
+		background-image: linear-gradient(to top, rgba(46, 49, 65, 0), rgba(46, 49, 65, 0)), url("../../images/3017.png");
 		background-size: auto,
  cover;
 		background-attachment: fixed,
